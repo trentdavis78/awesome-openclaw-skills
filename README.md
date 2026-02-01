@@ -67,7 +67,7 @@ Priority: Workspace > Local > Bundled
 - [Search & Research](#search--research) (23)
 - [Clawdbot Tools](#clawdbot-tools) (17)
 - [CLI Utilities](#cli-utilities) (41)
-- [Marketing & Sales](#marketing--sales) (42)
+- [Marketing & Sales](#marketing--sales) (43)
 - [Productivity & Tasks](#productivity--tasks) (42)
 - [AI & LLMs](#ai--llms) (38)
 - [Finance](#finance) (29)
@@ -398,6 +398,7 @@ Priority: Workspace > Local > Bundled
 - [gong](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/gong/SKILL.md) - Gong API for searching calls, transcripts, and conversation intelligence.
 - [google-ads](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/google-ads/SKILL.md) - Query, audit, and optimize Google Ads campaigns.
 - [gsc](https://github.com/openclaw/skills/tree/main/skills/jdrhyne/gsc/SKILL.md) - Query Google Search Console for SEO data - search queries, top pages, CTR opportunities.
+- [gtm](https://github.com/Prospeda/gtm-skills/tree/main/openclaw-skills/gtm/SKILL.md) - Complete GTM toolkit. Research, write, send, book, and track — cold emails, discovery, objections, LinkedIn, CRM logging, and more.
 - [hubspot](https://github.com/openclaw/skills/tree/main/skills/kwall1/hubspot/SKILL.md) - HubSpot CRM and CMS API integration for contacts, companies, deals, owners, and content management.
 - [humanizer](https://github.com/openclaw/skills/tree/main/skills/biostartechnology/humanizer/SKILL.md) - |.
 - [marketing-mode](https://github.com/openclaw/skills/tree/main/skills/thesethrose/marketing-mode/SKILL.md) - Marketing Mode combines 23 comprehensive marketing skills covering strategy, psychology, content.
