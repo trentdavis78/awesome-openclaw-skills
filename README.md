@@ -559,7 +559,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [veo3-video-gen](https://github.com/openclaw/skills/tree/main/skills/bluelyw/veo3-video-gen/SKILL.md) - Generate and stitch short videos via Google Veo 3.x using the Gemini API (google-genai).
 - [video-frames](https://github.com/openclaw/skills/tree/main/skills/steipete/video-frames/SKILL.md) - Extract frames or short clips from videos using ffmpeg.
 - [yollomi](https://github.com/openclaw/skills/tree/main/skills/anichikage/yollomi/SKILL.md) - Generate AI images and videos using Yollomi API.
-- [yt-thumbnail-grabber](https://github.com/openclaw/skills/tree/main/skills/sakaen736jih/yt-thumbnail-grabber/SKILL.md) - Download YouTube video thumbnails in various resolutions.
+
 
 </details>
 <details>
@@ -1045,7 +1045,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [x-timeline-digest](https://github.com/openclaw/skills/tree/main/skills/seandong/x-timeline-digest/SKILL.md) - Build a deduplicated digest from X (Twitter) For You and Following timelines using bird.
 - [youtrack-digisal](https://github.com/openclaw/skills/tree/main/skills/digisal/youtrack-digisal/SKILL.md) - Interact with YouTrack project management system via REST API.
 - [yt-dlp-downloader-skill](https://github.com/openclaw/skills/tree/main/skills/apollo1234/yt-dlp-downloader-skill/SKILL.md) - Download videos from YouTube, Bilibili, Twitter, and thousands of other sites using yt-dlp.
-- [yt-video-downloader](https://github.com/openclaw/skills/tree/main/skills/sakaen736jih/yt-video-downloader/SKILL.md) - Download YouTube videos in various formats and qualities.
+
 - [zoho](https://github.com/openclaw/skills/tree/main/skills/shreefentsar/zoho/SKILL.md) - Interact with Zoho CRM, Projects.
 
 </details>
@@ -1401,7 +1401,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [youtube-transcript](https://github.com/openclaw/skills/tree/main/skills/xthezealot/youtube-transcript/SKILL.md) - Fetch and summarize YouTube video transcripts.
 - [youtube-voice-summarizer-elevenlabs](https://github.com/openclaw/skills/tree/main/skills/franciscoandsam/youtube-voice-summarizer-elevenlabs/SKILL.md) - Transform YouTube videos into podcast-style voice summaries using ElevenLabs TTS
 - [youtube-watcher](https://github.com/openclaw/skills/tree/main/skills/michaelgathara/youtube-watcher/SKILL.md) - Fetch and read transcripts from YouTube videos.
-- [yt-summarize](https://github.com/openclaw/skills/tree/main/skills/sakaen736jih/yt-summarize/SKILL.md) - Summarize YouTube videos by extracting transcripts and captions.
+
 - [ytmusic](https://github.com/openclaw/skills/tree/main/skills/gentrycopsy/ytmusic/SKILL.md) - YouTube Music library, playlists.
 
 </details>
